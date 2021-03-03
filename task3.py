@@ -1,3 +1,4 @@
+# aklsdjalksdjlkajsdk
 def f3():
   n = input("Ввод n: ")
   nn = n + n
