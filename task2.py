@@ -1,3 +1,4 @@
+# Author: Vuong Truong Son and Vladislav Volkov
 def f2():
   sec = int(input("Enter seconds: "))
   m, s = divmod(sec, 60)
